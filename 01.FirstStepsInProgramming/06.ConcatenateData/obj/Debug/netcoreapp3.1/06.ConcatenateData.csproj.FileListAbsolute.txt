@@ -1,0 +1,14 @@
+D:\SoftUni\Homeworks\1.FirstStepsInProgramming\06.ConcatenateData\bin\Debug\netcoreapp3.1\06.ConcatenateData.exe
+D:\SoftUni\Homeworks\1.FirstStepsInProgramming\06.ConcatenateData\bin\Debug\netcoreapp3.1\06.ConcatenateData.deps.json
+D:\SoftUni\Homeworks\1.FirstStepsInProgramming\06.ConcatenateData\bin\Debug\netcoreapp3.1\06.ConcatenateData.runtimeconfig.json
+D:\SoftUni\Homeworks\1.FirstStepsInProgramming\06.ConcatenateData\bin\Debug\netcoreapp3.1\06.ConcatenateData.runtimeconfig.dev.json
+D:\SoftUni\Homeworks\1.FirstStepsInProgramming\06.ConcatenateData\bin\Debug\netcoreapp3.1\06.ConcatenateData.dll
+D:\SoftUni\Homeworks\1.FirstStepsInProgramming\06.ConcatenateData\bin\Debug\netcoreapp3.1\06.ConcatenateData.pdb
+D:\SoftUni\Homeworks\1.FirstStepsInProgramming\06.ConcatenateData\obj\Debug\netcoreapp3.1\06.ConcatenateData.csproj.AssemblyReference.cache
+D:\SoftUni\Homeworks\1.FirstStepsInProgramming\06.ConcatenateData\obj\Debug\netcoreapp3.1\06.ConcatenateData.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Homeworks\1.FirstStepsInProgramming\06.ConcatenateData\obj\Debug\netcoreapp3.1\06.ConcatenateData.AssemblyInfoInputs.cache
+D:\SoftUni\Homeworks\1.FirstStepsInProgramming\06.ConcatenateData\obj\Debug\netcoreapp3.1\06.ConcatenateData.AssemblyInfo.cs
+D:\SoftUni\Homeworks\1.FirstStepsInProgramming\06.ConcatenateData\obj\Debug\netcoreapp3.1\06.ConcatenateData.csproj.CoreCompileInputs.cache
+D:\SoftUni\Homeworks\1.FirstStepsInProgramming\06.ConcatenateData\obj\Debug\netcoreapp3.1\06.ConcatenateData.dll
+D:\SoftUni\Homeworks\1.FirstStepsInProgramming\06.ConcatenateData\obj\Debug\netcoreapp3.1\06.ConcatenateData.pdb
+D:\SoftUni\Homeworks\1.FirstStepsInProgramming\06.ConcatenateData\obj\Debug\netcoreapp3.1\06.ConcatenateData.genruntimeconfig.cache
