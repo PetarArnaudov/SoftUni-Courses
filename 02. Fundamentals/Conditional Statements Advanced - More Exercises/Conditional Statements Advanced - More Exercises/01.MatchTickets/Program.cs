@@ -7,7 +7,6 @@ namespace _01.MatchTickets
     {
         static void Main(string[] args)
         {
-
             double budget = double.Parse(Console.ReadLine());
             string category = Console.ReadLine();
             int people = int.Parse(Console.ReadLine());
