@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ConvertMetersToKilometers", "01.ConvertMetersToKilometers\01.ConvertMetersToKilometers.csproj", "{1BC6E90A-04B3-41CC-8C3F-0C6880B5BE57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.ConvertMetersToKilometers", "01.ConvertMetersToKilometers\01.ConvertMetersToKilometers.csproj", "{1BC6E90A-04B3-41CC-8C3F-0C6880B5BE57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.PoundsToDollars", "02.PoundsToDollars\02.PoundsToDollars.csproj", "{F13151FE-3C73-4C4D-B56F-979EEAEA624E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ExactSumOfRealNumbers", "03.ExactSumOfRealNumbers\03.ExactSumOfRealNumbers.csproj", "{DA1D23BF-E06B-43D6-AF53-FEFDCB54E03E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.CenturiesToMinutes", "04.CenturiesToMinutes\04.CenturiesToMinutes.csproj", "{D2996061-6D8E-4638-B975-8DFF163409F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{1BC6E90A-04B3-41CC-8C3F-0C6880B5BE57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BC6E90A-04B3-41CC-8C3F-0C6880B5BE57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BC6E90A-04B3-41CC-8C3F-0C6880B5BE57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F13151FE-3C73-4C4D-B56F-979EEAEA624E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F13151FE-3C73-4C4D-B56F-979EEAEA624E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F13151FE-3C73-4C4D-B56F-979EEAEA624E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F13151FE-3C73-4C4D-B56F-979EEAEA624E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA1D23BF-E06B-43D6-AF53-FEFDCB54E03E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA1D23BF-E06B-43D6-AF53-FEFDCB54E03E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA1D23BF-E06B-43D6-AF53-FEFDCB54E03E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA1D23BF-E06B-43D6-AF53-FEFDCB54E03E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2996061-6D8E-4638-B975-8DFF163409F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2996061-6D8E-4638-B975-8DFF163409F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2996061-6D8E-4638-B975-8DFF163409F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2996061-6D8E-4638-B975-8DFF163409F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
