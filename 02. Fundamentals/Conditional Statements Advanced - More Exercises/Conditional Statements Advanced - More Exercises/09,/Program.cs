@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _09_
+namespace _09_IsNegativOrNot
 {
     internal class Program
     {

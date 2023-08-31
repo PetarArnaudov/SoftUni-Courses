@@ -3,23 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.MatchTickets", "01.MatchTickets\01.MatchTickets.csproj", "{EEDD1BA1-B1D5-4397-B58E-B2313C73F10A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.MatchTickets", "01.MatchTickets\01.MatchTickets.csproj", "{EEDD1BA1-B1D5-4397-B58E-B2313C73F10A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.BikeRace", "02.BikeRace\02.BikeRace.csproj", "{4A467833-CAC0-4074-8441-7BCE9DB9E5F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.BikeRace", "02.BikeRace\02.BikeRace.csproj", "{4A467833-CAC0-4074-8441-7BCE9DB9E5F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Flowers", "03.Flowers\03.Flowers.csproj", "{56A8F616-0C73-441B-B5CA-2EB80FB9BC71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Flowers", "03.Flowers\03.Flowers.csproj", "{56A8F616-0C73-441B-B5CA-2EB80FB9BC71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.CarToGo", "04.CarToGo\04.CarToGo.csproj", "{481B0517-160C-4816-B7A6-7556294335C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.CarToGo", "04.CarToGo\04.CarToGo.csproj", "{481B0517-160C-4816-B7A6-7556294335C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Vacation", "05.Vacation\05.Vacation.csproj", "{A51A37DC-D26A-484F-83F7-FE2F795F9801}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.Vacation", "05.Vacation\05.Vacation.csproj", "{A51A37DC-D26A-484F-83F7-FE2F795F9801}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Truck", "06.Truck\06.Truck.csproj", "{F9E56229-0417-4053-839A-680E49E4BAD5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.Truck", "06.Truck\06.Truck.csproj", "{F9E56229-0417-4053-839A-680E49E4BAD5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.School", "07.School\07.School.csproj", "{2F3D788D-6C49-4D57-A975-6B5B34BADC2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.School", "07.School\07.School.csproj", "{2F3D788D-6C49-4D57-A975-6B5B34BADC2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.Point", "08.Point\08.Point.csproj", "{7742E5C5-8D8B-4625-B933-9AA6A4D535A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.Point", "08.Point\08.Point.csproj", "{7742E5C5-8D8B-4625-B933-9AA6A4D535A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09,", "09,\09,.csproj", "{ED624C1C-D9F7-43F1-8C47-4244F4B45BE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.IsNegativOrNot", "09,\09.IsNegativOrNot.csproj", "{ED624C1C-D9F7-43F1-8C47-4244F4B45BE2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
